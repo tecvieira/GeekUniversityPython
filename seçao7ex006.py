@@ -2,7 +2,7 @@ usuario = []
 n = 0
 maior = 0
 menor = 0
-print('=== CRIE SEU VETOR DE 10 POSIÇÕES E DESCUBRA OS NÚMEROS PARES ===')
+print('\033[33m=== CRIE SEU VETOR DE 10 POSIÇÕES E DESCUBRA O MAIOR E MENOR ELEMENTO ===\033[m')
 while n < 10:
     num = (int(input(f'Informe o {n + 1}º número: ')))
     usuario.append(num)
