@@ -4,22 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-    <list default="true" id="d07d3f97-3e3e-47c2-ac39-4f05b454e101" name="Changes" comment="atualização de exercícios seção 6" />
-=======
     <list default="true" id="d07d3f97-3e3e-47c2-ac39-4f05b454e101" name="Changes" comment="atualização de exercícios seção 6">
-      <change afterPath="$PROJECT_DIR$/DefaultDict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seçao4ex011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seçao4ex012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seçao7ex019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seçao8ex011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seçao8ex012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seçao8ex013.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seçao07ex017.py" beforeDir="false" afterPath="$PROJECT_DIR$/seçao7ex017.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seçao5ex011inteiro.py" beforeDir="false" afterPath="$PROJECT_DIR$/seçao5ex011inteiro.py" afterDir="false" />
     </list>
->>>>>>> f22bd8b711db660eb7751ffe64a1d4d01b2d2af5
-=======
-    <list default="true" id="d07d3f97-3e3e-47c2-ac39-4f05b454e101" name="Changes" comment="atualização de exercícios seção 6" />
->>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,42 +41,8 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Python.seçao5ex013">
-    <configuration name="DiversosListaComprasAlura" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-=======
-  <component name="RunManager" selected="Python.seçao4ex012">
-    <configuration name="DefaultDict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
->>>>>>> f22bd8b711db660eb7751ffe64a1d4d01b2d2af5
-      <module name="GeekUniversityPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-<<<<<<< HEAD
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DiversosListaComprasAlura.py" />
-=======
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DefaultDict.py" />
->>>>>>> f22bd8b711db660eb7751ffe64a1d4d01b2d2af5
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-<<<<<<< HEAD
+  <component name="RunManager" selected="Python.seçao8ex012">
     <configuration name="seçao5ex011inteiro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-=======
-    <configuration name="seçao4ex011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
->>>>>>> f22bd8b711db660eb7751ffe64a1d4d01b2d2af5
       <module name="GeekUniversityPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,11 +54,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seçao5ex011inteiro.py" />
-=======
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seçao4ex011.py" />
->>>>>>> f22bd8b711db660eb7751ffe64a1d4d01b2d2af5
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,11 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-<<<<<<< HEAD
-    <configuration name="seçao5ex011string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-=======
-    <configuration name="seçao4ex012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
->>>>>>> f22bd8b711db660eb7751ffe64a1d4d01b2d2af5
+    <configuration name="seçao6ex008" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GeekUniversityPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,11 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-<<<<<<< HEAD
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seçao5ex011string.py" />
-=======
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seçao4ex012.py" />
->>>>>>> f22bd8b711db660eb7751ffe64a1d4d01b2d2af5
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seçao6ex008.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-<<<<<<< HEAD
-    <configuration name="seçao5ex012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-=======
-    <configuration name="seçao5ex011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
->>>>>>> f22bd8b711db660eb7751ffe64a1d4d01b2d2af5
+    <configuration name="seçao7ex006" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GeekUniversityPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +96,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-<<<<<<< HEAD
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seçao5ex012.py" />
-=======
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seçao5ex011.py" />
->>>>>>> f22bd8b711db660eb7751ffe64a1d4d01b2d2af5
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seçao7ex006.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-<<<<<<< HEAD
-    <configuration name="seçao5ex013" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-=======
-    <configuration name="seçao7ex019" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
->>>>>>> f22bd8b711db660eb7751ffe64a1d4d01b2d2af5
+    <configuration name="seçao8ex011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GeekUniversityPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,11 +117,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-<<<<<<< HEAD
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seçao5ex013.py" />
-=======
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seçao7ex019.py" />
->>>>>>> f22bd8b711db660eb7751ffe64a1d4d01b2d2af5
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seçao8ex011.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seçao8ex012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GeekUniversityPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seçao8ex012.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,19 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
-        <item itemvalue="Python.seçao5ex013" />
-        <item itemvalue="Python.seçao5ex012" />
+        <item itemvalue="Python.seçao8ex012" />
         <item itemvalue="Python.seçao5ex011inteiro" />
-        <item itemvalue="Python.seçao5ex011string" />
-        <item itemvalue="Python.DiversosListaComprasAlura" />
-=======
-        <item itemvalue="Python.seçao4ex012" />
-        <item itemvalue="Python.seçao4ex011" />
-        <item itemvalue="Python.seçao5ex011" />
-        <item itemvalue="Python.DefaultDict" />
-        <item itemvalue="Python.seçao7ex019" />
->>>>>>> f22bd8b711db660eb7751ffe64a1d4d01b2d2af5
+        <item itemvalue="Python.seçao8ex011" />
+        <item itemvalue="Python.seçao7ex006" />
+        <item itemvalue="Python.seçao6ex008" />
       </list>
     </recent_temporary>
   </component>
