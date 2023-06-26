@@ -1,0 +1,18 @@
+"""
+O **kwargs é mais um parâmetro, que exige que utilizemos parâmetros nomeados e transformados um dicionário
+
+Ex001
+
+def cores_favoritas(**kwargs):
+    print(kwargs)
+
+
+cores_favoritas(marcos='verde', julia='amarelo', fernanda='azul', vanessa='branco')
+
+def cores_favoritas(**kwargs):
+    for pessoa, cor in kwargs.items():
+        print(f'A cor favorita de {pessoa} e {cor}')
+
+
+cores_favoritas(marcos='verde', julia='amarelo', fernanda='azul', vanessa='branco')
+"""
