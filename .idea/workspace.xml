@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d07d3f97-3e3e-47c2-ac39-4f05b454e101" name="Changes" comment="atualização de exercícios seção 6">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/seçao6ex011.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/seçao6ex012.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/seçao6ex013.py" afterDir="false" />
@@ -13,6 +14,8 @@
       <change afterPath="$PROJECT_DIR$/seçao6ex016.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/seçao6ex017.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/seçao8ex018.py" afterDir="false" />
+=======
+>>>>>>> 2a07b611dc0b2e6b78efba21da244c5fbc5f90ca
       <change afterPath="$PROJECT_DIR$/seçao8ex019.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -31,10 +34,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/seçao8ex014.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/seçao8ex015.py" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -50,8 +49,55 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.seçao6ex017">
     <configuration name="seçao6ex013" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+  <component name="RunManager" selected="Python.seçao8ex019">
+    <configuration name="seçao5ex014PENDENTE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GeekUniversityPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seçao5ex014PENDENTE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seçao8ex012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GeekUniversityPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seçao8ex012.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seçao8ex013" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> 2a07b611dc0b2e6b78efba21da244c5fbc5f90ca
       <module name="GeekUniversityPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,6 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="seçao6ex014" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GeekUniversityPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,6 +183,9 @@
       <method v="2" />
     </configuration>
     <configuration name="seçao6ex017" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="seçao8ex017" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> 2a07b611dc0b2e6b78efba21da244c5fbc5f90ca
       <module name="GeekUniversityPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,13 +206,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="seçao8ex019" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GeekUniversityPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seçao8ex019.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python.seçao6ex017" />
         <item itemvalue="Python.seçao6ex016" />
         <item itemvalue="Python.seçao6ex015" />
         <item itemvalue="Python.seçao6ex014" />
         <item itemvalue="Python.seçao6ex013" />
+=======
+        <item itemvalue="Python.seçao8ex019" />
+        <item itemvalue="Python.seçao8ex017" />
+        <item itemvalue="Python.seçao5ex014PENDENTE" />
+        <item itemvalue="Python.seçao8ex013" />
+        <item itemvalue="Python.seçao8ex012" />
+>>>>>>> 2a07b611dc0b2e6b78efba21da244c5fbc5f90ca
       </list>
     </recent_temporary>
   </component>
