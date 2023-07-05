@@ -16,3 +16,4 @@ def cores_favoritas(**kwargs):
 
 cores_favoritas(marcos='verde', julia='amarelo', fernanda='azul', vanessa='branco')
 """
+print('fim do arquivo')
