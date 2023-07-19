@@ -1,9 +1,13 @@
-def faz_linha(n):
-    for i in range(0, n+1):
-        print('!' * i)
+def triangulo_lateral(n):
+    """
+    Forma um triângulo lateral de acordo com tamanho solicitado pelo usuário
+    :param n: valor informado pelo usuário
+    :return: triângulo lateral formado por "*"
+    """
+    for i in range(0, n + 1, 1):
+        print("*" * i)
+    for i in range(n -1, 0, -1):
+        print("*" * i)
 
 
-
-faz_linha(n=int(input('Informe um número inteiro: ')))
-
-# não consegui fazer do jeito certo
+print(triangulo_lateral(n=int(input('Digite um valor: '))))
