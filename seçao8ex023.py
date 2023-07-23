@@ -1,9 +1,9 @@
-def faz_linha(n):
-    for i in range(0, n+1):
-        print('!' * i)
+def triangulo(n):
+    x = 0
+    for i in range(1, n + 1):
+        x = i + (x * 10)
+        print(f'{x:.>{n}}')
 
+triangulo(5)
 
-
-faz_linha(n=int(input('Informe um número inteiro: ')))
-
-# não consegui fazer do jeito certo
+#nao esta correto
