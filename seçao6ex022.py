@@ -24,13 +24,13 @@ else:
     print('=' * 29)
     print('          RELATÓRIO')
     print('=' * 29)
-    print(f'Foram informados {total} nota(s) - Total de pontos: {somanota}.')
+    print(f'Foram informados {total} nota(s) - Total de pontos: {somanota}')
     if media <= 9.9:
-        print(f'Sua média, {media} - Situação: "\033[31mAluno Reprovado\033[m]"')
+        print(f'Sua média, {media:.2f} - Situação: "\033[31mAluno Reprovado\033[m]"')
     elif 10.0 <= media <= 16.99:
-        print(f'Sua média: {media} - Situaçao: "\033[33mAluno em Recuperaçao\033[m]"')
+        print(f'Sua média: {media:.2f} - Situaçao: "\033[33mAluno em Recuperaçao\033[m]"')
     elif media >= 17.0:
-        print(f'Sua média, {media} - Situação: "\033[34mAluno Aprovado\033[m]"')
+        print(f'Sua média, {media:.2f} - Situação: "\033[34mAluno Aprovado\033[m]"')
     print()
     print('\033[35mSempre esteja atualizando-se!!!\033[m]')
 
