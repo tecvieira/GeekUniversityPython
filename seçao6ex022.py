@@ -33,4 +33,3 @@ else:
         print(f'Sua média, {media:.2f} - Situação: "\033[34mAluno Aprovado\033[m]"')
     print()
     print('\033[35mSempre esteja atualizando-se!!!\033[m]')
-
