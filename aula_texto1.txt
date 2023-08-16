@@ -1,0 +1,3 @@
+﻿Rio de Janeiro, 05 de agosto de 2023.
+
+Neste exercício vamos treinar como utilizar o python para leitura e escrita em um texto.
