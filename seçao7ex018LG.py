@@ -16,8 +16,8 @@ for valor in vetor18:
     if valor % x == 0:
         multiplos.append(valor)
         soma += 1
-print('===' * 15)
+print('===' * 25)
 print(f'Os multiplos de {x} na lista acima sao: {multiplos}')
 print(f'Foram encontrados {soma} múltiplos.')
-print('===\033[m' * 15)
+print('===\033[m' * 25)
 print('\033[31mByTecVander')
