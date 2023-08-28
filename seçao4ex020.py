@@ -4,7 +4,7 @@ def k_para_lb(k):
     :param k: valor informado pelo usuário em quilos.
     :return: Retorna o valor convertido para libra
     """
-    return k/0.45
+    return print(f'{k} Quilos correspondem a {k / 0.45:.2f} Libras')
 
 
-print(k_para_lb(float(input('Informe o peso em quilos: '))))
+k_para_lb(float(input('Informe o peso em quilos: ')))
