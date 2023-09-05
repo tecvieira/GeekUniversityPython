@@ -52,6 +52,11 @@ class Funcionarios(Pessoa):
         self.__matricula = matricula
 
 
+    def nome_completo(self):
+        print(super().nome_completo())
+        return f'Funcionário: {self.__matricula} Nome: {self._Pessoa__nome}'
+
+
 cliente1 = Cliente('Angelina', 'Jolie', '123.456.789-00', 5000)
 funcionario1 = Funcionarios('Felicity', 'Jones', '987.654.321.-11', 1234)
 
@@ -60,3 +65,5 @@ print(funcionario1.nome_completo())
 
 print(cliente1.__dict__)
 print(funcionario1.__dict__)
+
+
