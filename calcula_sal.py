@@ -11,8 +11,6 @@ def titulo():
 
 
 def tipo_de_aquario():
-    volume = 0
-    densidade = 0
     while True:
         try:
             volume = int(input('Quanto de água deseja preparar? '))
@@ -34,7 +32,8 @@ def tipo_de_aquario():
         if tipo == 1:
             if densidade == 1023:
                 quantidade = volume * 34.5
-                return print(f'\033[34mPara {volume} litros de água com densidade de 1023 use {quantidade} gramas de sal.\033[m')
+                return print(f'\033[34mPara {volume} litros de água com densidade de 1023'
+                             f' use {quantidade} gramas de sal.\033[m')
             else:
                 if densidade <= 1022:
                     print('\033[33mUtilize densidade de 1023 para aquários FISH only.\033[m')
@@ -43,7 +42,8 @@ def tipo_de_aquario():
         elif tipo == 2:
             if densidade == 1025:
                 quantidade = volume * 38.0
-                return print(f'\033[34mPara {volume} litros de água com densidade {densidade} use {quantidade} gramas de sal\033[m')
+                return print(f'\033[34mPara {volume} litros de água com densidade {densidade} '
+                             f'use {quantidade} gramas de sal\033[m')
             else:
                 if densidade <= 1024:
                     print(f'\033[33mCorais LPS (moles), necessitam de densidade maior que {densidade}'
@@ -54,7 +54,8 @@ def tipo_de_aquario():
         elif tipo == 3:
             if densidade == 1026:
                 quantidade = volume * 40.5
-                return print(f'\033[34mPara {volume} litros de água com densidade {densidade} use {quantidade} gramas de sal\033[m')
+                return print(f'\033[34mPara {volume} litros de água com densidade {densidade} '
+                             f'use {quantidade} gramas de sal\033[m')
             else:
                 if densidade >= 1027:
                     print(f'\033[33mA densidade {densidade} pode ser alta para corais SPS,'
