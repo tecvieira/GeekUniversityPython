@@ -10,6 +10,15 @@ def titulo():
     """)
 
 
+def tipo_animais():
+    return print("""
+    Tipo de Fauna:
+    01 - FISH Only  (Apenas peixes)
+    02 - LPS Corals (corais moles)
+    03 - SPS Corals (corais duros)
+    """)
+
+
 def tipo_de_aquario():
     while True:
         try:
@@ -22,13 +31,8 @@ def tipo_de_aquario():
         except ValueError:
             print(f'\033[33mErro! o valor deve ser um número inteiro entre 1016 e 1026\033[m')
             densidade = int(input('Qual a densidade desejada? '))
-        print("""
-        Tipo de aquário:
-        01 - FISH Only  (Apenas peixes)
-        02 - LPS Corals (corais moles)
-        03 - SPS Corals (corais duros)
-        """)
-        tipo = int(input('Informe o tipo de aquário desejado: '))
+        tipo_animais()
+        tipo = int(input('Escolha uma das opções de aquário acima: '))
         if tipo == 1:
             if densidade == 1023:
                 quantidade = volume * 34.5
@@ -86,3 +90,4 @@ while True:
         break
     else:
         print('\033[31mOpção inválida, escolha um valor entre 01 ou 02\033[m')
+        sleep(2)
